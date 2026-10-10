@@ -5,7 +5,7 @@
 特别感谢佬友支持： [linux.do](https://linux.do/t/topic/1660924/)
 
 ### 部署方法：
-1，完全免费的，无需任何费用。利用了cloudflare page + 即梦 免费api
+1，完全免费的，无需任何费用。利用了cloudflare page或者 edgeone + 即梦 免费api
 2，部署方法简单，无需任何配置。 可以cloudflare命令一键部署，也可以基于github代码拉取部署，也可以自行手动部署。
 cloudflare命令一键部署命令参考：
 ```
